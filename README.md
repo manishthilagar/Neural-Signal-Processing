@@ -38,6 +38,3 @@ Please refer to the documentation of each package for detailed information on th
 
 Contributions to this repository are welcome! If you have any suggestions, bug fixes, or feature implementations, feel free to open an issue or submit a pull request.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE), allowing for open collaboration and use of the codebase.
